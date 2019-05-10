@@ -5,7 +5,6 @@ basic chat app using mongoDB and socket.io
 
 npm install 
 
-
 ## Run Server
 
 npm start
